@@ -1,0 +1,8 @@
+body {
+  background-color:#d6fff5;
+}
+/*background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");*/
+
+.carousel-inner .carousel-item{
+  height: 50vh;
+}
