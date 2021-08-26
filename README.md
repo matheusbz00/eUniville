@@ -10,3 +10,6 @@
 `git commit -m "descricao do que foi feito"`
 `git push -u origin <nome da branch>`
 `Verificar pullresquest no git`
+
+## Unificando a main com a branch
+`git merge <nome da branch>`
